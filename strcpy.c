@@ -7,7 +7,7 @@ void main()
 	char str[]="world";//two parameters required
 	char des[20];
   char* ans=mystrcpy(des,str); //datatype type is char and char
-	printf("%s",ans);	
+	printf("%s",str);	
 }
 char* mystrcpy(char*des,char*str)
  {

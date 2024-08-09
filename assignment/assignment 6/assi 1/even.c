@@ -5,9 +5,9 @@ void main()
 	int no=45;
 	int ans=even_odd(&no);
 	if(ans==1)
-	printf("no %u is even ", *no);
+	printf("no %u is even ", no);
 	else
-	printf("no %d is odd",*no);
+	printf("no %d is odd",no);
 }
 int even_odd(int* no)
 {

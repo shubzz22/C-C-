@@ -11,7 +11,7 @@ void main()
 //		i++;
 //	}
 //	printf("factorial is %d",factorial);
-for(i=1;i<=5no;i++)
+for(i=1;i<=no;i++)
 {
 	factorial=factorial*i;
 	

@@ -4,6 +4,5 @@
 void main()
 {
 	      char arr[]= "firstbitsolution";
-          printf("%d\n",strlen(arr));
 	 	  printf("%s",strrev(arr));
-}
+	                         }
